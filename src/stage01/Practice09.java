@@ -21,7 +21,7 @@ public class Practice09 {
 			System.out.println(A % B);
 		}   
 
-		sc.close();
+		sc.close(); 
 	}
 
 }

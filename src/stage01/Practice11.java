@@ -37,6 +37,6 @@ public class Practice11 {
 			System.out.println( AB03 );
 			System.out.println( result );
 		}
-		scan.close();
+		scan.close(); 
 	}
 }

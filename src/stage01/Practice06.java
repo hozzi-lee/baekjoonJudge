@@ -13,7 +13,7 @@ public class Practice06 {
 		B = sc.nextInt();
 		System.out.println(A - B);
 
-		sc.close();
+		sc.close(); 
 	}
 
 }

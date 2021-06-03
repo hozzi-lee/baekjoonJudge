@@ -23,7 +23,7 @@ public class Practice10 {
 		System.out.println( ( A * B ) % C );
 		System.out.println( ( ( A % C ) * ( B % C ) ) % C );
 
-		sc.close();
+		sc.close(); 
 	}
 
 }

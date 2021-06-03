@@ -13,7 +13,7 @@ public class Practice08 {
 		B = sc.nextInt();
 		System.out.println((double)A / (double)B);
 
-		sc.close();
+		sc.close(); 
 	}
 
 }
