@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-public class Q6_2742 {
+public class Q06_2742 {
 	public static void main(String[] args) throws IOException {
 
 		BufferedReader bfr = new BufferedReader(new InputStreamReader(System.in));
@@ -14,7 +14,7 @@ public class Q6_2742 {
 
 		int N = Integer.parseInt(bfr.readLine());
 
-		for ( int i = N; i > 0; i-- ) {
+		for (int i = N; i > 0; i--) {
 			bfw.write(i + "\n");
 		}
 		bfw.flush();
